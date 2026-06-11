@@ -1,0 +1,43 @@
+Page 4: Emphasis Example (Textual Figure)
+- Figure Type: Textual/Contextual Example
+- Description: The phrase "I never said she stole my money" is repeated with different emphasis, illustrating how context changes meaning. Includes a note about ambiguity in prompts and a visual pun "Avoid All Ducks… This may not be a duck!!!"
+
+Page 5: Prompt Injection (Diagram)
+- Figure Type: Diagram
+- Description: Shows a user prompt attempting to manipulate an agent, with roles labeled as User, Researcher, and Agent.
+
+Page 6: Indirect Prompt Injection (Diagram)
+- Figure Type: Diagram
+- Description: Depicts a prompt injection hidden at the end of a long document, passed to a tool. Shows flow from User to Search Tool to Agent to Debug SQL Tool.
+
+Page 7: Multimodal Prompt Injection (Diagram)
+- Figure Type: Diagram
+- Description: Describes how attackers embed commands in images/audio/video. Includes a sample hidden instruction and bullet points on attack methods.
+
+Page 8: Prompt Injection: Obfuscation & Character Encoding (Diagram)
+- Figure Type: Diagram
+- Description: Shows how homoglyphs bypass security filters and are normalized by the LLM tokenizer, leading to exploit success.
+
+Page 9: Prompt Injection Exploiting LLM Internals (Diagram)
+- Figure Type: Diagram
+- Description: Mentions virtualization, roleplay, refusal suppression, and fake completion as attack vectors.
+
+Page 13: Model Armor Architecture Diagram (Diagram)
+- Figure Type: Architecture Diagram
+- Description: Flowchart showing how Model Armor allows/denies/filters prompts and responses between Agent and LLM.
+
+Page 14: Sensitive Data Protection (Textual Figure)
+- Figure Type: Textual/Service Description
+- Description: Describes a managed service for discovering and protecting sensitive data.
+
+Page 15: Security Governance Topology (Diagram)
+- Figure Type: Diagram
+- Description: Compares agent-based vs. model-based integration, with notes on governance, geo-affinity, and org structure.
+
+Page 16: Gateway Security Policies (Diagram)
+- Figure Type: Diagram
+- Description: Shows gateway enforcing security policies with built-in integrations, templates, and flow between agents, tools, models, and APIs.
+
+Page 17: Technologies and Products (List)
+- Figure Type: List/Table
+- Description: Lists technologies: ADK for Python, Model Armor, Sensitive Data Protection, Cloud Run, Gemini 3.1 Pro.

@@ -1,0 +1,47 @@
+# =============================================================================
+# LangChain v1 stack - upgraded
+# =============================================================================
+langchain-core==1.4.0
+langchain==1.3.4
+langchain-classic==1.0.7
+langchain-community==0.4.2
+langchain-text-splitters==1.1.2
+langchain-openai==1.2.2
+langchain-anthropic==1.4.4
+langchain-google-genai==4.2.4
+langgraph==1.2.4
+matplotlib==3.10.9
+
+# Deep Agent harness + Skills 
+deepagents==0.6.8
+
+# UI Framework
+streamlit>=1.28.0
+
+# Core Dependencies
+tiktoken==0.11.0
+faiss-cpu==1.12.0
+
+# Search feature
+tavily-python==0.7.1
+langchain-tavily==0.2.18
+
+# Document tools
+pypdf==6.0.0
+python-docx>=0.8.11
+openpyxl==3.1.5
+fpdf2==2.8.7
+markdown==3.10.2
+pandas>=2.2.0
+
+# MCP (Model Context Protocol) Dependencies
+langchain-mcp-adapters==0.2.2
+
+requests>=2.31.0
+
+# Research agent tools
+wikipedia>=1.4.0
+arxiv==2.2.0
+
+# Async support for Streamlit + MCP
+nest_asyncio==1.6.0
