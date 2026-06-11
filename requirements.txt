@@ -19,7 +19,7 @@ deepagents==0.6.8
 streamlit>=1.28.0
 
 # Core Dependencies
-tiktoken==0.7.0
+tiktoken
 faiss-cpu==1.12.0
 
 # Search feature
